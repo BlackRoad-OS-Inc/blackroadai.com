@@ -1,5 +1,13 @@
 # blackroadai.com
 
+> BlackRoad OS, Inc. — blackroadai.com domain repo. Proprietary.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroadai.com
+
 > Lucidia — an AI companion that actually remembers you.
 
 **Live at [https://blackroadai.com](https://blackroadai.com)**
